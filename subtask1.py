@@ -8,3 +8,5 @@ def lar_sq (n):
 lar_sq (5)
 lar_sq (9)
 lar_sq (99)
+
+# it looks like I learned how to use git today
